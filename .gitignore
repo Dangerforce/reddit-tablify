@@ -1,4 +1,5 @@
-.setup.py
 /build
 /dist
 /reddit_tablify.egg-info
+test.py
+/rtablify/__pycache__

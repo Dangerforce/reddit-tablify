@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="reddit-tablify",
-    version="0.1.0",
+    version="1.0.0",
     description="Turn Python Dictionary into reddit table",
     long_description=README,
     long_description_content_type="text/markdown",
@@ -20,6 +20,6 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.7",
     ],
-    packages=["src"],
+    packages=["rtablify"],
 
 )
